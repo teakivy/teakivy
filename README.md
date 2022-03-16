@@ -3,7 +3,7 @@
 - 🔭 I'm currently working on [Pixel Art Image](https://github.com/teakivy/pixel-art-image) (My own image format for Pixel Art)
 - 🌱 I'm learning [ReactJS](https://reactjs.org/) with [TypeScript](https://www.typescriptlang.org/)
 - 📫 Reach me on [my Discord server](https://discord.gg/YTtMjpT)
-- 🌎 US-EAST - EST-4
+- 🌎 US - EST-4
 
 ---
 
