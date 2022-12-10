@@ -1,7 +1,7 @@
 <h1 align="center">Hi! I'm TeakIvy! 👋</h1>
 
-- 🔭 I'm currently working on [Pixel Art Image](https://github.com/teakivy/pixel-art-image) (My own image format for Pixel Art)
-- 🌱 I'm learning [ReactJS](https://reactjs.org/) with [TypeScript](https://www.typescriptlang.org/)
+- 🔭 I'm currently working on [Tea](https://github.com/teakivy/tea) (My own Programming Language)
+- 🌱 I'm learning [TypeScript](https://www.typescriptlang.org/)
 - 📫 Reach me on [my Discord server](https://discord.gg/YTtMjpT)
 - 🌎 US - EST-4
 
