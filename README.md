@@ -1,6 +1,6 @@
 <h1 align="center">Hi! I'm TeakIvy! 👋</h1>
 
-- 🔭 I'm currently working on [Tea](https://github.com/teakivy/tea) (My own Programming Language)
+- 🔭 I'm currently working on [My Portfolio](https://collinj.dev)
 - 🌱 I'm learning [TypeScript](https://www.typescriptlang.org/)
 - 📫 Reach me on my [Discord server](https://discord.gg/YTtMjpT)
 - 🌎 US - EST-4
