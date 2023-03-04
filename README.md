@@ -1,6 +1,6 @@
 <h1 align="center">Hi! I'm TeakIvy! 👋</h1>
 
-- 🔭 I'm currently working on [My Portfolio](https://collinj.dev)
+- 🔭 I'm currently working on [TeakOS](https://github.com/teakivy/TeakOS) (My own Operating System)
 - 🌱 I'm learning [TypeScript](https://www.typescriptlang.org/)
 - 📫 Reach me on my [Discord server](https://discord.gg/YTtMjpT)
 - 🌎 US - EST-4
@@ -21,7 +21,7 @@
 - [DarkIvy](https://github.com/teakivy/DarkIvy) A custom VSCode purple theme.
 - [TestLangScript](https://github.com/teakivy/TestLangScript) A VERY simple testing language created in Javascript, based on Javascript, and compiled to Javascript.
 - [Optifine Installer](https://github.com/teakivy/OptiFine-Installer) An installer application for the Minecraft mod "Optifine" written in Typescript, React, & Electron.
-- [Tea](https://github.com/teakivy/tea) A newer language (currently being developed) with a custom lexer, parser, etc. Written in Typescript.
+- [TeakOS](https://github.com/teakivy/TeakOS) A new Operating System (written in Assembly & C) aiming to recreate various functions of the linux kernel & MS-DOS. The project is still very early in development, but already has a basic kernel & shell system. Opposing TSOS, TeakOS can (theoretically) run on actual x86 hardware, without the need for any external software, or bootloaders!
 
 ---
 
