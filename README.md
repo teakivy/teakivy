@@ -1,7 +1,6 @@
 <h1 align="center">Hi! I'm TeakIvy! 👋</h1>
 
-- 🔭 I'm currently working on [TeakOS](https://github.com/teakivy/TeakOS) (My own Operating System)
-- 🌱 I'm learning [TypeScript](https://www.typescriptlang.org/)
+- 🔭 I'm currently working on [Teak's Tweaks](https://github.com/teakivy/teaks-tweaks) (My own Operating System)
 - 📫 Reach me on my [Discord server](https://discord.gg/YTtMjpT)
 - 🌎 US - EST-4
 
