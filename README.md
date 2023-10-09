@@ -1,5 +1,6 @@
 <h1 align="center">Hi! I'm TeakIvy! 👋</h1>
 
+- 🧑‍🎓 Studying Computer Science at Georgia Southern University
 - 🔭 I'm currently working on [Teak's Tweaks](https://github.com/teakivy/teaks-tweaks) (My own Operating System)
 - 📫 Reach me on my [Discord server](https://discord.gg/YTtMjpT)
 - 🌎 US - EST-4
