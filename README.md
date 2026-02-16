@@ -1,6 +1,6 @@
 <h1 align="center">Hi! I'm TeakIvy! 👋</h1>
 
-- 🧑‍🎓 Studying Computer Science at Georgia Southern University
+- 🧑‍🎓 Studying Computer Science at University of Georgia
 - 🔭 I'm currently working on [County Collector](https://github.com/teakivy/CountyCollector)
 - 📫 Reach me on my [Discord server](https://discord.gg/YTtMjpT)
 - 🌎 US - EST-4
